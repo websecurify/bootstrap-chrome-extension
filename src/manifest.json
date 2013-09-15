@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "#{NAME}",
+	"version": "#{VERSION}",
+	
+	"description": "#{DESCRIPTION}",
+	
+	"permissions": [
+	],
+	
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	},
+	
+	"offline_enabled": true
+}
