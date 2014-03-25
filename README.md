@@ -18,6 +18,14 @@ This project delivers an easy way to do extension development for Google Chrome.
 
 More features will be added soon.
 
+# Dependencies
+
+| Package | Linux | Mac OS X |
+| ------- |:-----:|:--------:|
+| [imagemagick](http://www.imagemagick.org/) | `apt-get install imagemagick` | `brew install imagemagick` |
+
+Mac OS X: you can download `brew` from [http://brew.sh/]()
+
 # Usage
 
 Everything is controlled by grunt tasks.
